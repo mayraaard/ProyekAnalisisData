@@ -1,1 +1,1 @@
-https://h7dlcsbt9signbzm8wvojj.streamlit.app/
+https://data-analysis-project-ecomm.streamlit.app/
